@@ -3,6 +3,8 @@
 ## Overview
 This Java program simulates **Cyclic Redundancy Check (CRC)** for error detection in digital messages. It generates random binary messages, calculates CRC using a user-defined polynomial, simulates transmission with random bit errors, and checks for errors at the receiver.
 
+---
+
 ## Features
 - Random binary message generation
 - CRC (FCS) calculation with a user-provided polynomial
